@@ -76,6 +76,7 @@ public class StepDefination extends Utils {
 	   
 		res = given().spec(getRequestSpecification())	    		
 	    .body(ut.deletePlacePayload(place_id));
+		System.out.println("hello");
 	}
 
 }
