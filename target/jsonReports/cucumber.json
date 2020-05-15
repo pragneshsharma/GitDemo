@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-05-13T10:50:45.725Z",
+        "start_timestamp": "2020-05-15T16:06:27.950Z",
         "line": 14,
         "name": "Checking if place is created successfully",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 871000000,
+              "duration": 1089000000,
               "status": "passed"
             },
             "line": 5,
@@ -39,7 +39,7 @@
           },
           {
             "result": {
-              "duration": 1525000000,
+              "duration": 3531000000,
               "status": "passed"
             },
             "line": 6,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 442000000,
+              "duration": 673000000,
               "status": "passed"
             },
             "line": 8,
@@ -101,7 +101,7 @@
           },
           {
             "result": {
-              "duration": 9000000,
+              "duration": 15000000,
               "status": "passed"
             },
             "line": 9,
@@ -123,7 +123,7 @@
           },
           {
             "result": {
-              "duration": 1082000000,
+              "duration": 1028000000,
               "status": "passed"
             },
             "line": 10,
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-13T10:50:49.702Z",
+        "start_timestamp": "2020-05-15T16:06:34.402Z",
         "line": 18,
         "name": "",
         "description": "",
@@ -173,7 +173,7 @@
           },
           {
             "result": {
-              "duration": 920000000,
+              "duration": 938000000,
               "status": "passed"
             },
             "line": 20,
@@ -212,7 +212,7 @@
           },
           {
             "result": {
-              "duration": 28000000,
+              "duration": 13000000,
               "status": "passed"
             },
             "line": 22,
